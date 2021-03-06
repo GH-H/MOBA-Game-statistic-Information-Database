@@ -5,10 +5,10 @@ The system combines a database with a simple UI to help gamer track their stats 
 time and research the performances of others.The purpose of this system is to provided a convenient 
 experience for gamer to improve skills. In the first phase of the development, data information will be specified , 
 functionalities and several different Analytical queries will be provided.
-========================================================================================================================
-#guide
+Guide
+-
 ****please open DatabaseProject.sln in visal studio and find Home.aspx,right click and open in browser. 
-i do not know how to make an application file *****
+I do not know how to make an application file *****
 
 you can access champion,leaderboard,rank,allgamerecord,purchasehistory 
 and get query ressult without account.
@@ -30,8 +30,8 @@ Steps: 1.in home page, click register
 	7.then type your username, click"update"
 
 
-============================================================================================================
-#detail for each page
+Detail for each page
+-
 1.Home page
 	link --->Champion
 	link ----check username and password ---> UserProfile
