@@ -6,7 +6,7 @@ time and research the performances of others.The purpose of this system is to pr
 experience for gamer to improve skills. In the first phase of the development, data information will be specified , 
 functionalities and several different Analytical queries will be provided.
 
-![Image of ER diagram](https://octodex.github.com/images/yaktocat.png)
+![Image of ER diagram](https://github.com/GH-H/MOBA-Game-statistic-Information-Database/blob/main/ER_Diagram.png)
 
 
 Guide
