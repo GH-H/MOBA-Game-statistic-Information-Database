@@ -6,6 +6,9 @@ time and research the performances of others.The purpose of this system is to pr
 experience for gamer to improve skills. In the first phase of the development, data information will be specified , 
 functionalities and several different Analytical queries will be provided.
 
+![Image of ER diagram](https://octodex.github.com/images/yaktocat.png)
+
+
 Guide
 -
 ****please open DatabaseProject.sln in visal studio and find Home.aspx,right click and open in browser. 
